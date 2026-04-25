@@ -6,7 +6,7 @@
 
 Full-stack developer with 4+ years building SaaS and financial systems. I've worked professionally across frontend, backend, and DevOps, primarily with TypeScript, Go, Flutter, React, and Next.js.
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=miniaxolotl&hide_border=true&border_radius=12&mode=weekly&exclude_days=Sun%2CSat&card_width=480&card_height=120)](https://git.io/streak-stats)
+[![](https://github-readme-streak-stats.herokuapp.com?user=miniaxolotl&hide_border=true&border_radius=12&exclude_days=Sun%2CSat&card_width=480&card_height=120)](https://git.io/streak-stats)
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=miniaxolotl&theme=radical&hide_border=false)<br/> -->
 
