@@ -2,11 +2,13 @@
 
 ### Elias Mawa
 
-Full-stack developer with 4+ years building SaaS and financial systems. I've worked professionally across frontend, backend, and DevOps, primarily with TypeScript, Go, Flutter, React, and Next.js.
-
 <a href="https://mawa.dev">portfolio</a> / <a href="mailto:elias@mawa.dev">email</a> / <a href="https://www.linkedin.com/in/elias-mawa/">linkedin</a>
 
-### Stack
+Full-stack developer with 4+ years building SaaS and financial systems. I've worked professionally across frontend, backend, and DevOps, primarily with TypeScript, Go, Flutter, React, and Next.js.
+
+[![](https://github-readme-streak-stats.herokuapp.com?user=miniaxolotl&hide_border=true&border_radius=12&mode=weekly&exclude_days=Sun%2CSat&card_width=480&card_height=120)](https://git.io/streak-stats)
+
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=miniaxolotl&theme=radical&hide_border=false)<br/> -->
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
